@@ -12,13 +12,6 @@ import "firebase/firestore";
 import 'firebase/database';
 
 const firebaseConfig = {
-	apiKey: "AIzaSyA0C4MHyb4kHKfpSaYFouem-Q7GaDYMGNg",
-	authDomain: "i-agree-to-the-terms.firebaseapp.com",
-	projectId: "i-agree-to-the-terms",
-	storageBucket: "i-agree-to-the-terms.appspot.com",
-	messagingSenderId: "799799155443",
-	appId: "1:799799155443:web:0c04df0c0ebb0410a63586",
-	measurementId: "G-VCQ26SJKJS"
 };
 
 // initialize Firebase
