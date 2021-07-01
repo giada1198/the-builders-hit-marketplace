@@ -1,0 +1,40 @@
+.captcha-description {
+    background: #1678c2;
+    margin: 0 2.5px;
+    padding: 30px 20px;
+    color: white;
+}
+.captcha-image-container {
+    margin-top: 10px;
+}
+
+.captcha-image-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.captcha-image {
+    position: relative;
+    width: 100%;
+    background-image: url("https://www.indiantrailanimalhospital.com/sites/default/files/styles/large/public/chihuahua-dog-breed-info.jpg");
+    background-size: cover;
+    /* display: flex;
+    justify-content: flex-end;
+    align-items: flex-start; */
+    margin: 2.5px;
+}
+
+.captcha-image:before {    
+    content: '';
+    display: block;
+    padding-top: 100%;
+}
+
+.captcha-checkbox {
+    position: absolute;
+    display: inline-block;
+    top: 5px;
+    right: 5px;
+    z-index: 99;
+}

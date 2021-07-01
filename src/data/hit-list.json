@@ -1,0 +1,77 @@
+{
+    "Same Product?":
+    {
+        "reward-description": "($0.03 per product)",
+        "is-ghosted": false
+    },
+    "Ruin or Construction":
+    {
+        "reward-description": "($0.04 per image)",
+        "is-ghosted": false
+    },
+    "Demographic Questions":
+    {
+        "reward-description": "",
+        "is-ghosted": false
+    },
+    "Consumer Behavior Questionnaire":
+    {
+        "reward-description": "($0.07 per question)",
+        "is-ghosted": false
+    },
+    "Answer easy factual questions about a common object.":
+    {
+        "reward-description": "($0.50 per question)",
+        "is-ghosted": false
+    },
+    "Worker Experience Questions":
+    {
+        "reward-description": "($3.00)",
+        "is-ghosted": false
+    },
+    "Consumer Behavior Study":
+    {
+        "reward-description": "($0.05 per question)",
+        "is-ghosted": false
+    },
+    "Super quick survey about reading sentences.":
+    {
+        "reward-description": "($4.00)",
+        "is-ghosted": false
+    },
+    "Survey about life events, including death":
+    {
+        "reward-description": "($0.2)",
+        "is-ghosted": false
+    },
+    "Simple Consumer Choice Survey":
+    {
+        "reward-description": "(~2 min)",
+        "is-ghosted": false
+    },
+    "Please describe your worst childhood experience.":
+    {
+        "reward-description": "($2.00)",
+        "is-ghosted": true
+    },
+    "Caption violent imagery.":
+    {
+        "reward-description": "(~ 0 min for $1/image)",
+        "is-ghosted": true
+    },
+    "Subtitle pornography.":
+    {
+        "reward-description": "(~10 hours for $2.00/hr)",
+        "is-ghosted": true
+    },
+    "Is this a beheading?":
+    {
+        "reward-description": "(1000 images for $0.05/image)",
+        "is-ghosted": true
+    },
+    "Gender judgement, 400 faces":
+    {
+        "reward-description": "($0.01/image)",
+        "is-ghosted": true
+    }
+}

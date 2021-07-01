@@ -1,0 +1,12 @@
+.scroller {
+    max-height: 50vh;
+    padding: 0 0.25em;
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+    overflow-x: hidden;
+    font-size: 11px;
+}
+
+.scroller p {
+    margin-bottom: 0;
+}

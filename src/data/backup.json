@@ -1,0 +1,632 @@
+{
+"car":
+	{
+		"heading": "Test Questions",
+		"description": "You are given 15 seconds to answer each question of 5. Each question is in multiple choice. You have to get at least 4 correct answers to proceed to the next level.",
+		"questions":
+		[
+			{
+				"question": "Select an option",
+				"type": "radio-group",
+				"options":
+				[
+					"Front",
+					"Front-Left",
+					"Front-Right",
+					"Back-Left",
+					"Back-Right",
+					"Flank-Left",
+					"Flank-Right",
+					"Rear Exterior",
+					"Trunk",
+					"Pickup Bed",
+					"Tires/Wheels",
+					"Multimedia/Navigation/Backup Camera",
+					"Steering Wheel",
+					"Climate Controls"
+				],
+				"answer": "Flank-Left",
+				"image": "./img/quiz-01.jpg",
+				"timer": 15
+			},
+			{
+				"question": "Select an option",
+				"options":
+				[
+					"Front",
+					"Front-Left",
+					"Front-Right",
+					"Back-Left",
+					"Back-Right",
+					"Flank-Left",
+					"Flank-Right",
+					"Rear Exterior",
+					"Trunk",
+					"Pickup Bed",
+					"Tires/Wheels",
+					"Multimedia/Navigation/Backup Camera",
+					"Steering Wheel",
+					"Climate Controls"
+				],
+				"answer": "Trunk",
+				"image": "./img/quiz-02.jpg",
+				"timer": 15
+			},
+			{
+				"question": "Select an option",
+				"options":
+				[
+					"Front",
+					"Front-Left",
+					"Front-Right",
+					"Back-Left",
+					"Back-Right",
+					"Flank-Left",
+					"Flank-Right",
+					"Rear Exterior",
+					"Trunk",
+					"Pickup Bed",
+					"Tires/Wheels",
+					"Multimedia/Navigation/Backup Camera",
+					"Steering Wheel",
+					"Climate Controls"
+				],
+				"answer": "Climate Controls",
+				"image": "./img/quiz-03.jpg",
+				"timer": 15
+			},
+			{
+				"question": "Select an option",
+				"options":
+				[
+					"Front",
+					"Front-Left",
+					"Front-Right",
+					"Back-Left",
+					"Back-Right",
+					"Flank-Left",
+					"Flank-Right",
+					"Rear Exterior",
+					"Trunk",
+					"Pickup Bed",
+					"Tires/Wheels",
+					"Multimedia/Navigation/Backup Camera",
+					"Steering Wheel",
+					"Climate Controls"
+				],
+				"answer": "Front-Left",
+				"image": "./img/quiz-04.jpg",
+				"timer": 15
+			},
+			{
+				"question": "Select an option",
+				"options":
+				[
+					"Front",
+					"Front-Left",
+					"Front-Right",
+					"Back-Left",
+					"Back-Right",
+					"Flank-Left",
+					"Flank-Right",
+					"Rear Exterior",
+					"Trunk",
+					"Pickup Bed",
+					"Tires/Wheels",
+					"Multimedia/Navigation/Backup Camera",
+					"Steering Wheel",
+					"Climate Controls"
+				],
+				"answer": "Front",
+				"image": "./img/quiz-05.jpg",
+				"timer": 15
+			}
+		]
+	},
+	"phase-a-3":{
+		"heading": "Ruin or Construction",
+		"description": "You will be presented with several images. Please indicate if you think the image shows an active construction site or a ruin. Each image is only shown for a short time - so your response should be quick, don’t overthink it. ($0.04 per image)",
+		"attend-probability": 1.00,
+		"pass-probability": 0.691,
+		"reward": [0.4, 0.8],
+		"questions":
+		[
+			{
+				"heading": "",
+				"question": "Same Product?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-1.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-2.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-3.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-4.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-5.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-6.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-7.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-8.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-9.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-10.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-11.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-12.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-13.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-14.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-15.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-16.png"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-17.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-18.png"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-19.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-20.jpg"
+				],
+				"timer": 15
+			}
+		],
+        "phase-a-4":{
+            "heading": "Disasters - Natural vs Manmade?",
+            "description": "You will be presented with several images. Please indicate if you think the image shows a natural disaster or a man-made disaster. Each image is only shown for a short time — so your response should be quick, don’t overthink it. ($0.04 per image)",
+            "attend-probability": 1.00,
+            "pass-probability": 0.691,
+            "reward": [0.14, 0.28],
+            "questions":
+            [
+                {
+                    "heading": "",
+                    "question": "Natural vs Manmade?",
+                    "supplement": "",
+                    "type": "radio-group",
+                    "options":
+                    [
+                        "Natural",
+                        "Not Sure",
+                        "Man-Made"
+                    ],
+                    "answer": null,
+                    "images":
+                    [
+                        "./img/hits-phase-a-4/disaster-1.jpg"
+                    ],
+                    "timer": 15
+                },
+                {
+                    "heading": "",
+                    "question": "Natural vs Manmade?",
+                    "supplement": "",
+                    "type": "radio-group",
+                    "options":
+                    [
+                        "Natural",
+                        "Not Sure",
+                        "Man-Made"
+                    ],
+                    "answer": null,
+                    "images":
+                    [
+                        "./img/hits-phase-a-4/disaster-2.jpg"
+                    ],
+                    "timer": 15
+                },
+                {
+                    "heading": "",
+                    "question": "Natural vs Manmade?",
+                    "supplement": "",
+                    "type": "radio-group",
+                    "options":
+                    [
+                        "Natural",
+                        "Not Sure",
+                        "Man-Made"
+                    ],
+                    "answer": null,
+                    "images":
+                    [
+                        "./img/hits-phase-a-4/disaster-3.jpg"
+                    ],
+                    "timer": 15
+                },
+                {
+                    "heading": "",
+                    "question": "Natural vs Manmade?",
+                    "supplement": "",
+                    "type": "radio-group",
+                    "options":
+                    [
+                        "Natural",
+                        "Not Sure",
+                        "Man-Made"
+                    ],
+                    "answer": null,
+                    "images":
+                    [
+                        "./img/hits-phase-a-4/disaster-4.jpg"
+                    ],
+                    "timer": 15
+                },
+                {
+                    "heading": "",
+                    "question": "Natural vs Manmade?",
+                    "supplement": "",
+                    "type": "radio-group",
+                    "options":
+                    [
+                        "Natural",
+                        "Not Sure",
+                        "Man-Made"
+                    ],
+                    "answer": null,
+                    "images":
+                    [
+                        "./img/hits-phase-a-4/disaster-5.jpg"
+                    ],
+                    "timer": 15
+                },
+                {
+                    "heading": "",
+                    "question": "Natural vs Manmade?",
+                    "supplement": "",
+                    "type": "radio-group",
+                    "options":
+                    [
+                        "Natural",
+                        "Not Sure",
+                        "Man-Made"
+                    ],
+                    "answer": null,
+                    "images":
+                    [
+                        "./img/hits-phase-a-4/disaster-6.jpg"
+                    ],
+                    "timer": 15
+                },
+                {
+                    "heading": "",
+                    "question": "Natural vs Manmade?",
+                    "supplement": "",
+                    "type": "radio-group",
+                    "options":
+                    [
+                        "Natural",
+                        "Not Sure",
+                        "Man-Made"
+                    ],
+                    "answer": null,
+                    "images":
+                    [
+                        "./img/hits-phase-a-4/disaster-7.jpg"
+                    ],
+                    "timer": 15
+                }
+            ]
+        }
+	}
+}

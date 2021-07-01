@@ -1,0 +1,1173 @@
+{
+	"Same Product?":
+	{
+		"heading": "Same Product?",
+		"description": "You will be presented with several images. Please indicate if you think the image shows a natural disaster or a man-made disaster. Each image is only shown for a short time — so your response should be quick, don’t overthink it.",
+		"attend-probability": 1.00,
+		"pass-probability": 0.90,
+		"reward": [0.105, 0.21],
+		"questions":
+		[
+			{
+				"heading": "",
+				"question": "Same Product?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Same",
+					"Not Sure",
+					"Different"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-2/ar-15-1.jpg",
+					"./img/hits-phase-a-2/ar-15-2.jpg"
+				],
+				"timer": 18
+			},
+			{
+				"heading": "",
+				"question": "Same Product?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Same",
+					"Not Sure",
+					"Different"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-2/coach-riley-1.jpg",
+					"./img/hits-phase-a-2/coach-riley-2.jpg"
+				],
+				"timer": 12
+			},
+			{
+				"heading": "",
+				"question": "Same Product?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Same",
+					"Not Sure",
+					"Different"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-2/dove.png"
+				],
+				"timer": 12
+			},
+			{
+				"heading": "",
+				"question": "Same Product?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Same",
+					"Not Sure",
+					"Different"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-2/gas-mask-1.jpg",
+					"./img/hits-phase-a-2/gas-mask-2.jpg"
+				],
+				"timer": 12
+			},
+			{
+				"heading": "",
+				"question": "Same Product?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Same",
+					"Not Sure",
+					"Different"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-2/kelly-bag-1.jpg",
+					"./img/hits-phase-a-2/kelly-bag-2.jpg"
+				],
+				"timer": 12
+			},
+			{
+				"heading": "",
+				"question": "Same Product?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Same",
+					"Not Sure",
+					"Different"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-2/keurig-1.png",
+					"./img/hits-phase-a-2/keurig-2.png"
+				],
+				"timer": 12
+			},
+			{
+				"heading": "",
+				"question": "Same Product?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Same",
+					"Not Sure",
+					"Different"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-2/leather-bag-1.png",
+					"./img/hits-phase-a-2/leather-bag-2.jpg"
+				],
+				"timer": 12
+			}
+		]
+	},
+	"Ruin or Construction":{
+		"heading": "Ruin or Construction",
+		"description": "You will be presented with several images. Please indicate if you think the image shows an active construction site or a ruin. Each image is only shown for a short time - so your response should be quick, don’t overthink it. ($0.04 per image)",
+		"attend-probability": 1.00,
+		"pass-probability": 0.90,
+		"reward": [0.22, 0.44],
+		"questions":
+		[
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-1.jpg"
+				],
+				"timer": 12
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-2.jpg"
+				],
+				"timer": 12
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-3.jpg"
+				],
+				"timer": 12
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-4.jpg"
+				],
+				"timer": 12
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-5.jpg"
+				],
+				"timer": 12
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-6.jpg"
+				],
+				"timer": 12
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-7.jpg"
+				],
+				"timer": 12
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-8.jpg"
+				],
+				"timer": 12
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-9.jpg"
+				],
+				"timer": 12
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-10.jpg"
+				],
+				"timer": 12
+			},
+			{
+				"heading": "",
+				"question": "Ruin or Construction?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Construction",
+					"Not Sure",
+					"Ruin"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/hits-phase-a-3/ruin-construction-11.png"
+				],
+				"timer": 12
+			}
+		]
+	},
+	"Demographic Questions":{
+		"heading": "Demographic Questions",
+		"description": "Please Answer the following questions. Each question is timed at 12 to 36 seconds, please answer quickly:",
+		"attend-probability": 1.00,
+		"pass-probability": 1.00,
+		"reward": [0, 0],
+		"questions":
+		[
+			{
+				"heading": "Demographic Question",
+				"question": "Which term best describes you (pick as many as you like):",
+				"supplement": "",
+				"type": "checkbox",
+				"options":
+				[
+					"Female",
+					"Male",
+					"Non-binary",
+					"Transgender",
+					"Intersex",
+					"Fluid"
+				],
+				"answer": null,
+				"images": [],
+				"timer": 18
+			},
+			{
+				"heading": "Demographic Question",
+				"question": "What is your racial Identity?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"White or Caucasian",
+					"Black or African American",
+					"American Indian or Alaska Native",
+					"Latino or Hispanic",
+					"Asian",
+					"Pacific Islander or Hawaiian"
+				],
+				"answer": null,
+				"images": [],
+				"timer": 12
+			},
+			{
+				"heading": "Demographic Question",
+				"question": "What is your household income?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Under $10,000/year",
+					"$10,000 - $14,999",
+					"$15,000 - $24,999",
+					"$25,000 - $39,999",
+					"$40,000 - $59,999",
+					"$60,000 - $74,999",
+					"$75,000 - $99,999",
+					"$100,000 - or more"
+				],
+				"answer": null,
+				"images": [],
+				"timer": 12
+			},
+			{
+				"heading": "Demographic Question",
+				"question": "Please rank yourself on a scale of 1 to 5 in the following categories:",
+				"supplement": "",
+				"type": "rating",
+				"options":
+				[
+					"",
+					"",
+					"",
+					"",
+					""
+				],
+				"labels":
+				[
+					["Visual Thinker", "Verbal thinker"],
+					["Leader/Commander", "Team Player"],
+					["Process-oriented", "Results-oriented"],
+					["Risk-taking", "Cautious"],
+					["Extroverted", "Introverted"]
+				],
+				"answer": null,
+				"images": [],
+				"timer": 36
+			},
+			{
+				"heading": "Demographic Question",
+				"question": "Rate your emotional response to the topic of \"Online Theater\":",
+				"supplement": "",
+				"type": "rating",
+				"options":
+				[
+					"Anger",
+					"Awe",
+					"Disgust",
+					"Fear",
+					"Sadness",
+					"Happiness",
+					"Hope"
+				],
+				"labels":
+				[
+					["None", "Extreme"],
+					["None", "Extreme"],
+					["None", "Extreme"],
+					["None", "Extreme"],
+					["None", "Extreme"],
+					["None", "Extreme"],
+					["None", "Extreme"]
+				],
+				"answer": null,
+				"images": [],
+				"timer": 36
+			},
+			{
+				"heading": "",
+				"question": "What do you call this vegetable:",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Eggplant",
+					"Aubergine"
+				],
+				"answer": "Eggplant",
+				"rejection-heading": "This is the end of the hit.",
+				"rejection-description": "You have failed the attention check and this HIT has been rejected.",
+				"images":
+				[
+					"./img/eggplant.jpg"
+				],
+				"timer": 12
+			}
+		]
+	},
+	"Consumer Behavior Questionnaire":
+	{
+		"heading": "Consumer Behavior Questionnaire",
+		"description": "Please Answer the following questions.",
+		"attend-probability": 1.00,
+		"pass-probability": 0.90,
+		"reward": [0.385, 0.77],
+		"questions":
+		[
+			{
+				"heading": "Consumer Behavior Questionnaire",
+				"question": "Do you think you have recommended at least one brand or product in the last 24 hours? Please take some time to think. (This includes conversations about a brand in person, over the phone or through online messaging & social media)",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"YES",
+					"I CAN'T REMEMBER"
+				],
+				"answer": "YES",
+				"rejection-heading": "This is the end of the hit.",
+				"rejection-description": "Your response has been recorded. You currently do not meet the criteria as described in the HIT to participate in this survey. Thank you for your time.",
+				"images": [],
+				"timer": 15
+			},
+			{
+				"heading": "Consumer Behavior Questionnaire",
+				"question": "What was the brand or product? Please write the name in the text box.",
+				"supplement": "",
+				"type": "text",
+				"input-placeholder": null,
+				"options": [],
+				"answer": null,
+				"images": [],
+				"timer": 40
+			},
+			{
+				"heading": "Consumer Behavior Questionnaire",
+				"question": "Were you awarded cash or other compensation by the brand for your recommendation?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Yes",
+					"No"
+				],
+				"answer": null,
+				"images": [],
+				"timer": 15
+			},
+			{
+				"heading": "Consumer Behavior Questionnaire",
+				"question": "How many brands have you recommended in the last 24 hours?",
+				"supplement": "",
+				"type": "text",
+				"input-placeholder": "ex.10",
+				"options": [],
+				"answer": null,
+				"images": [],
+				"timer": 40
+			},
+			{
+				"heading": "Please answer the question as TRUE or FALSE:",
+				"question": "I am dead",
+				"supplement": "",
+				"type": "rating",
+				"options":
+				[
+					"I am dead",
+					"I am alive",
+					"I can read this sentence",
+					"This sentence is invisible",
+					"I am currently answering questions online",
+					"I am currently on the moon."
+				],
+				"labels": null,
+				"answer": [ 1, 0, 0, 1, 0, 1 ],
+				"rejection-heading": "This is the end of the hit.",
+				"rejection-description": "You have failed the attention check and this HIT has been rejected.",
+				"images": [],
+				"timer": 60
+			},
+			{
+				"heading": "Consumer Behavior Questionnaire",
+				"question": "\"I like the idea of consuming environmentally and socially responsible products.\" How strongly do you agree with this statement?",
+				"supplement": "",
+				"type": "rating",
+				"options":
+				[
+					""
+				],
+				"labels":
+				[
+					["Strongly disagree", "Strongly agree"]
+				],
+				"answer": null,
+				"images": [],
+				"timer": 15
+			}
+		]
+	},
+	"Answer easy factual questions about a common object.":
+	{
+		"heading": "Answer easy factual questions about a common object.",
+		"description": "Answer easy factual questions about a common object. For the familiar object given below, answer the easy factual questions listed below. The word is meant to represent a concrete object. When answering the questions, think of the most common tangible object associated with this word. For example, if the word is “bridge,” you should think of a bridge across a river and not the card game called bridge.<br />Answer as accurately as you can. Responses are validated manually and automatically checked for consistency with other responders. Reasons responses WON’T be accepted include:<ul><li>Too many of the same answers (eg. mostly “sometimes”)</li><li>Too many extreme answers (i.e. not enough of doubtful, sometimes or probably)</li><li>Answers not consistent with other responders Don’t just guess!</li></ul>",
+		"attend-probability": 1.00,
+		"pass-probability": 0.90,
+		"reward": [2.50, 5.00],
+		"questions":
+		[
+			{
+				"heading": "YOUR OBJECT IS: <b>Sir Ian McKellen</b>",
+				"question": "Does it have Seeds?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Definitely No",
+					"Doubtful",
+					"Maybe/Sometimes/Kind of",
+					"Probably",
+					"Definitely Yes"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/sir-ian-mckellen.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "YOUR OBJECT IS: <b>Sir Ian McKellen</b>",
+				"question": "Does it live above ground?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Definitely No",
+					"Doubtful",
+					"Maybe/Sometimes/Kind of",
+					"Probably",
+					"Definitely Yes"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/sir-ian-mckellen.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "YOUR OBJECT IS: <b>Sir Ian McKellen</b>",
+				"question": "Is it smaller than a golfball?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Definitely No",
+					"Doubtful",
+					"Maybe/Sometimes/Kind of",
+					"Probably",
+					"Definitely Yes"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/sir-ian-mckellen.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "YOUR OBJECT IS: <b>Sir Ian McKellen</b>",
+				"question": "Is it warm?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Definitely No",
+					"Doubtful",
+					"Maybe/Sometimes/Kind of",
+					"Probably",
+					"Definitely Yes"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/sir-ian-mckellen.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "YOUR OBJECT IS: <b>Sir Ian McKellen</b>",
+				"question": "Would you find it in a garden?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Definitely No",
+					"Doubtful",
+					"Maybe/Sometimes/Kind of",
+					"Probably",
+					"Definitely Yes"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/sir-ian-mckellen.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "YOUR OBJECT IS: <b>Sir Ian McKellen</b>",
+				"question": "Is it unhealthy?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Definitely No",
+					"Doubtful",
+					"Maybe/Sometimes/Kind of",
+					"Probably",
+					"Definitely Yes"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/sir-ian-mckellen.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "YOUR OBJECT IS: <b>Sir Ian McKellen</b>",
+				"question": "Is it scary?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Definitely No",
+					"Doubtful",
+					"Maybe/Sometimes/Kind of",
+					"Probably",
+					"Definitely Yes"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/sir-ian-mckellen.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "YOUR OBJECT IS: <b>Sir Ian McKellen</b>",
+				"question": "Is it bigger than a car?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Definitely No",
+					"Doubtful",
+					"Maybe/Sometimes/Kind of",
+					"Probably",
+					"Definitely Yes"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/sir-ian-mckellen.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "YOUR OBJECT IS: <b>Sir Ian McKellen</b>",
+				"question": "Does it contain liquid?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Definitely No",
+					"Doubtful",
+					"Maybe/Sometimes/Kind of",
+					"Probably",
+					"Definitely Yes"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/sir-ian-mckellen.jpg"
+				],
+				"timer": 15
+			},
+			{
+				"heading": "YOUR OBJECT IS: <b>Sir Ian McKellen</b>",
+				"question": "Does it have a tail?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Definitely No",
+					"Doubtful",
+					"Maybe/Sometimes/Kind of",
+					"Probably",
+					"Definitely Yes"
+				],
+				"answer": null,
+				"images":
+				[
+					"./img/sir-ian-mckellen.jpg"
+				],
+				"timer": 15
+			}
+		]
+	},
+	"Worker Experience Questions":
+	{
+		"heading": "Worker Experience Questions",
+		"description": "Imagine you work for a union that is attempting to organize a workplace. You are hoping to better understand workers' experiences and frustrations by creating a questionnaire so the union can highlight these issues. ($3.00)",
+		"attend-probability": 1.00,
+		"pass-probability": 0.90,
+		"reward": [3.00, 3.00],
+		"questions":
+		[
+			{
+				"heading": "",
+				"question": "Imagine you work for a union that is attempting to organize a workplace. You are hoping to better understand workers' experiences and frustrations by creating a questionnaire so the union can highlight these issues. Write a short question using one of the following prompts:",
+				"supplement": "<ul><li>Potential beginning phrases:</li><ul><li>While at work...</li><li>When you talk about your job...</li><li>At the end of the work day do you feel...</li></ul><li>Keywords:</li><ul><li>Dignity/pride/meaning in work(a ‘calling’)</li><li>Worker surveillance/being monitored</li><li>Schedule issues</li><li>Automation and their job</li><li>Respect from management</li><li>Work/life balance</li></ul></ul>",
+				"type": "text",
+				"input-placeholder": null,
+				"options": [],
+				"answer": null,
+				"images": [],
+				"timer": 300
+			},
+			{
+				"heading": "",
+				"question": "Please ignore the question below and click on 1 at the bottom of the screen. Do not click on the other scale items that are labeled.",
+				"supplement": "",
+				"type": "rating",
+				"options":
+				[
+					"How often do you wish you were a robot?"
+				],
+				"labels":
+				[
+					["Very rarely", "Very frequently"]
+				],
+				"answer": [0],
+				"rejection-heading": "This is the end of the hit.",
+				"rejection-description": "You have failed the attention check and this HIT has been rejected.",
+				"images": [],
+				"timer": 30
+			}
+		]
+	},
+	"Consumer Behavior Study":
+	{
+		"heading": "Consumer Behavior Study",
+		"description": "<p>We want you to think about one of your acquaintances. Imagine someone who has some similarities to you (e.g. the same gender, backgrounds...etc), but not your close friend. Suppose this person you just imagined wrote the following Facebook post.</p><img src='./img/bmw.jpg' width='100%' height='auto' style='margin: 1em 0'/><p>\"I saved money and bought a BMW. I like my BMW. It’s fun to drive and has a really good stereo system too. I get a lot of compliments on the leather seats and the OnStar system. I can actually call and make dinner reservations from my car! My friends always want to take my car when we go out to the clubs now... I guess because they all have older beat up cars. That’s pretty cool!\" ($0.05 per question)</p>",
+		"attend-probability": 1.00,
+		"pass-probability": 0.90,
+		"reward": [0.10, 0.20],
+		"questions":
+		[
+			{
+				"heading": "",
+				"question": "Please indicate how much you agree with each of the following statements by checking the appropriate number:",
+				"supplement": "",
+				"type": "rating",
+				"options":
+				[
+					"I envy the person.",
+					"I wish the person in this scenario would fail at something.",
+					"I would like to take the BMW away from the person.",
+					"I have negative thoughts about the person."
+				],
+				"labels":
+				[
+					["Completely Disagree", "Completely Agree"],
+					["Completely Disagree", "Completely Agree"],
+					["Completely Disagree", "Completely Agree"],
+					["Completely Disagree", "Completely Agree"]
+				],
+				"answer": null,
+				"images": [],
+				"timer": 45
+			}
+		]
+	},
+	"Survey about life events, including death":
+	{
+		"heading": "Survey about life events, including death",
+		"description": "This is a short survey about life events that may have occurred in the last 5 years. For this survey you will be asked details about specific life events. ($0.2)",
+		"attend-probability": 1.00,
+		"pass-probability": 0.90,
+		"reward": [0.10, 0.20],
+		"questions":
+		[
+			{
+				"heading": "",
+				"question": "What is your race/ethnicity?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"American Indian/Alaskan Native",
+					"Asian",
+					"Black/African American",
+					"Hispanic/Latino",
+					"Middle Eastern",
+					"White/Caucasian",
+					"Other/Multiracial"
+					
+				],
+				"answer": null,
+				"images": [],
+				"timer": 15
+			},
+			{
+				"heading": "Other Demographic Information",
+				"question": "How many Square Feet do you own?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"≥ 1000 sq ft",
+					"≤ 999 sq ft",
+					"= 0 (If you Rent or live in your car - enter “0”)"
+				],
+				"answer": null,
+				"images": [],
+				"timer": 15
+			},
+			{
+				"heading": "Other Demographic Information",
+				"question": "Pitcher or Catcher?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Pitcher",
+					"Catcher"
+				],
+				"answer": null,
+				"images": [],
+				"timer": 15
+			},
+			{
+				"heading": "Other Demographic Information",
+				"question": "Toilet paper over or under?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Over",
+					"Under"
+				],
+				"answer": null,
+				"images": [],
+				"timer": 15
+			},
+			{
+				"heading": "Other Demographic Information",
+				"question": "Are you on Amazon Prime?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Yes",
+					"No"
+				],
+				"answer": null,
+				"images": [],
+				"timer": 15
+			},
+			{
+				"heading": "Other Demographic Information",
+				"question": "Digital Native?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Yes",
+					"No"
+				],
+				"answer": null,
+				"images": [],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Did any of the following events happen to you in the last 5 years, (since June 2016)? Please check all that apply:",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Someone very close to me died.",
+					"I was arrested for animal smuggling.",
+					"Neither of these things happened to me."
+				],
+				"answer": "Someone very close to me died.",
+				"rejection-heading": "This is the end of the hit.",
+				"rejection-description": "Thanks for your response. No more questions are needed.",
+				"images": [],
+				"timer": 30
+			},
+			{
+				"heading": "",
+				"question": "You indicated that someone close to you died in the last 5 years. Approximately how long ago did they die? If you have had multiple close loved ones die in the last 5 years, think about the one who died most recently.",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"I did not have someone close to me die in the last 5 years.",
+					"One year or less",
+					"Three years or less",
+					"Five years or less"
+				],
+				"answer": null,
+				"images": [],
+				"timer": 30
+			},
+			{
+				"heading": "",
+				"question": "Were you aware that your loved one was dying or likely to die?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Yes",
+					"No"
+				],
+				"answer": null,
+				"images": [],
+				"timer": 30
+			}
+		]
+	},
+	"Simple Consumer Choice Survey":
+	{
+		"heading": "Simple Consumer Choice Survey",
+		"description": "<p>This study investigates how people make various decisions. Please follow the instructions carefully as there may be questions to make sure you are paying attention.</p><p>Imagine that you are planning a summer getaway to Miami. You find three hotels on Tripadvisor that offer a promotional discount for the dates you are planning to visit Miami.</p><p>All three hotels have a rating of 4.5 or higher with hundreds of reviews.</p><img src='./img/hotels.png' width='100%' height='auto''/>",
+		"attend-probability": 1.00,
+		"pass-probability": 0.90,
+		"reward": [0.45, 0.90],
+		"questions":
+		[
+			{
+				"heading": "",
+				"question": "Which hotel are you leaning towards at this moment? Please rank order each of these hotels in your order of preference. (1 being your most preferred)",
+				"supplement": "<img src='./img/hotels.png' width='100%' height='auto''/>",
+				"type": "rating",
+				"options":
+				[
+					"Hotel Soho",
+					"Ivy Hotel",
+					"Hotel Urbanica"					
+				],
+				"labels": null,
+				"answer": null,
+				"images": [],
+				"timer": 30
+			},
+			{
+				"heading": "",
+				"question": "<p>Suppose you posted a question on Tripadvisor to get peoples opinion on the three hotels. You see that one person posted a reply recently below:<br><i>“I would not book Hotel Soho and Ivy Hotel. By the way, if it is your first time going to Miami, you should also check out the northern beaches. South Beach is more popular, but it isn’t as clean as it used to be a few years ago.”</i></p>According to the above, which of the following is FALSE?",
+				"supplement": "<img src='./img/hotels.png' width='100%' height='auto''/>",
+				"type": "radio-group",
+				"options":
+				[
+					"This person would not book Hotel Soho",
+					"This person would not book Ivy Hotel",
+					"This person would not book Hotel Urbanica"
+				],
+				"answer": null,
+				"images": [],
+				"timer": 45
+			},
+			{
+				"heading": "",
+				"question": "Recall that the person who replied to your question mentioned that he would not book Hotel Soho and Ivy Hotel.",
+				"supplement": "<img src='./img/hotels.png' width='100%' height='auto''/>",
+				"type": "rating",
+				"options":
+				[
+					"What does the person’s suggestion feel like to you?",
+					"How informative is the person’s reply?",
+					"How difficult was it for you to understand the person’s reply?",
+					"How odd was the person’s reply?",
+					"How unexpected was the person’s reply?",
+					"How much do you like the person's suggestion? Select 1 if you are reading this instruction."
+				],
+				"labels":
+				[
+					["It feels like a choice of Hotel Urbanica", "It feel like a rejection of Hotel Soho and Ivy Hotel"],
+					["Not at all", "Very much"],
+					["Not at all", "Very much"],
+					["Not at all", "Very much"],
+					["Not at all", "Very much"],
+					["Not at all", "Very much"]
+				],
+				"answer": null,
+				"rejection-heading": "This is the end of the hit.",
+				"rejection-description": "You have failed the attention check and this HIT has been rejected.",
+				"images": [],
+				"timer": 75
+			}
+		]
+	},
+	"Super quick survey about reading sentences.":
+	{
+		"heading": "Super quick survey about reading sentences.",
+		"description": "Please answer the following screener questions in order to determine if you qualify to participate in this study. Please note that certain responses to some of these questions may lead to the survey being terminated if you do not qualify to take this study. ($4.00)",
+		"attend-probability": 1.00,
+		"pass-probability": 0.50,
+		"reward": [2.00, 4.00],
+		"questions":
+		[
+			{
+				"heading": "",
+				"question": "Do you speak English?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Yes",
+					"No"				
+				],
+				"answer": null,
+				"images": [],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Do you live in the United States?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Yes",
+					"No"				
+				],
+				"answer": null,
+				"images": [],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "Are you between the ages of 18 - 65?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"Yes",
+					"No"				
+				],
+				"answer": null,
+				"images": [],
+				"timer": 15
+			},
+			{
+				"heading": "",
+				"question": "What is your race/ethnicity?",
+				"supplement": "",
+				"type": "radio-group",
+				"options":
+				[
+					"American Indian/Alaskan Native",
+					"Asian",
+					"Black/African American",
+					"Hispanic/Latino",
+					"Middle Eastern",
+					"White/Caucasian",
+					"Other/Multiracial"
+				],
+				"answer": "noanswer",
+				"rejection-heading": "This is the end of the hit.",
+				"rejection-description": "We thank you for participating in this survey. You are not eligible at this time to continue this survey. Thank You!",
+				"images": [],
+				"timer": 15
+			}
+		]
+	}
+}

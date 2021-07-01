@@ -1,0 +1,25 @@
+{
+    "cues":
+	[
+		{
+			"no": 		10,
+			"time": 	"Preshow",
+			"content":	"Show waiting room"
+		},
+		{
+			"no": 		20,
+			"time": 	"Act 1",
+			"content":	"Phase A Hits to the locked worker dashboard"
+		},
+		{
+			"no": 		25,
+			"time": 	"Act 1",
+			"content":	"Cross Karen and Chad on the ranking"
+		},
+		{
+			"no": 		30,
+			"time": 	"Act 2",
+			"content":	"Unlock worker dashboard"
+		}
+	]
+}
